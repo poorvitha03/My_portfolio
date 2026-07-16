@@ -17,5 +17,4 @@ This portfolio website is built with HTML, CSS, and JavaScript.
 ## Notes
 
 - The site is responsive and designed for desktop and mobile screens.
-- Your CV information was extracted from `CV.pdf` and added to the portfolio content.
 - To make changes, edit the HTML and CSS as desired.
